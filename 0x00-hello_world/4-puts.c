@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - this is the main function
  *
- * Description: A C program that prints with put function
- *
- * Return: Always 0 (iSuccess)
+ * Return: Always 0
 */
 
 int main(void)
